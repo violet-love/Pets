@@ -1,4 +1,4 @@
-# Pets
+# Violet's Pet Project (GitHub Practice)
 
 This project will let you practice creating a new project including creating a git repo for it, adding it to GitHub on your account, making changes, commiting them, and pushing them.
 
